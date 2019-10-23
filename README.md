@@ -1,12 +1,18 @@
 # Welcome to the DAS42 GitHub Workshop!
 
-## Do you have a GitHub account?
-### If yes...
+## Quick Setup
+- In your web browser, open two new tabs.
+- In the first, go to github.com
+- In the second, go to **REPL LINK NEEDED**
+
+### If you don't have a GitHub account...
+- Create an account by clicking the `Sign Up` button in the top right corner of the landing page.
+	- Be sure to verify your account through the email sent after completing the sign-up process.
+- Follow the below steps once you have successfully created your account.
+
+### If already have a GitHub account...
 - Login and search for my account, _logan-DAS42_.
-- Under my repositories, checkout the one called _'cu-git-workshop'_
+- Under my repositories, checkout the one called _'cu-git-workshop'_.
 - Hang tight, this is where we will start the workshop from.
 
-### If no...
-- Go to github.com and create an account.
-	- Be sure to verify your account through the email sent after completing the sign-up steps.
-- Follow the above steps for *If yes...*
+---
