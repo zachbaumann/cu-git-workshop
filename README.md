@@ -1,5 +1,5 @@
 # Welcome to the DAS42 GitHub Workshop!
-
+---
 ## Quick Setup
 - In your web browser, open two new tabs.
 - In the first, go to [github.com](github.com)
@@ -16,3 +16,15 @@
 - Hang tight, this is where we will start the workshop from.
 
 ---
+### Git CLI Commands
+- `clone` - creates copy, or "clone", of a remote repo on a local machine
+- `branch` - displays the current available branches and indicate the branch that a local repo is on
+- `checkout` - switches the branch that a local repo is on
+- `status` - displays the current status of the local repo in comparison to its remote origin repo
+- `fetch` -
+- `pull` -
+- `add` - adds an untracked file in a local repo to the list of tracked files
+- `rm` - removes a tracked file in a local repo to the list of untracked files
+- `commit` - labeling/packaging up changes to be pushed to the remote origin
+- `push` - taking all commit's that are present in the local repo but not the remote origin and plac
+
