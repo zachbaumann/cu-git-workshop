@@ -2,7 +2,7 @@
 
 ## Quick Setup
 - In your web browser, open two new tabs.
-- In the first, go to github.com
+- In the first, go to [github.com](github.com)
 - In the second, go to **REPL LINK NEEDED**
 
 ### If you don't have a GitHub account...
