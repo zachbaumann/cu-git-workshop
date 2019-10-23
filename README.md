@@ -3,7 +3,7 @@
 ## Quick Setup
 - In your web browser, open two new tabs.
 - In the first, go to [github.com](github.com)
-- In the second, go to [https://repl.it/@LoganGuerry/cu-git-workshop](https://repl.it/@LoganGuerry/cu-git-workshop)
+- In the second, go to [repl.it/@LoganGuerry/cu-git-workshop](https://repl.it/@LoganGuerry/cu-git-workshop)
 
 ### If you don't have a GitHub account...
 - Create an account by clicking the `Sign Up` button in the top right corner of the landing page.
