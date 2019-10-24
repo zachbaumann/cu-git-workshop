@@ -21,10 +21,10 @@
 - `branch` - displays the current available branches and indicate the branch that a local repo is on
 - `checkout` - switches the branch that a local repo is on
 - `status` - displays the current status of the local repo in comparison to its remote origin repo
-- `fetch` -
-- `pull` -
+- `fetch` - retrieves file changes from the remote repo, but doesn't automatically merges them into your local repo
+- `pull` - retrieves file changes from the remote repo, and automatically merges them into your local repo
 - `add` - adds an untracked file in a local repo to the list of tracked files
 - `rm` - removes a tracked file in a local repo to the list of untracked files
 - `commit` - labeling/packaging up changes to be pushed to the remote origin
 - `push` - taking all commit's that are present in the local repo but not the remote origin and plac
-
+---
